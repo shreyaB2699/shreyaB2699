@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreyaB2699
+- 👋 Hi, I’m @shreyaB2699 a.k.a Shreya Bhatnagar
 - 👀 I’m interested in Data Science, Music and Reading
 - 🌱 I’m currently learning the field of Data Science and Analytics
 - 💞️ I’m looking to collaborate on Data Science and Analytics researches and projects
